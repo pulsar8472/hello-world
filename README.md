@@ -1,2 +1,2 @@
-# hello-world
-Write CaptureOne Sessions to Lightroom date folders
+I like science, art and technology.
+Photographer working on improving workflow
